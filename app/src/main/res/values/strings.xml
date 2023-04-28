@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Intent App</string>
+    <string name="you_already_moved_from_previous_app">You already moved from previous app</string>
+</resources>
